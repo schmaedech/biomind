@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="com-sdk-connector-CaptureAction.instance">
+                <attr name="component" methodvalue="com.sdk.connector.CaptureTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="com.sdk.connector.Bundle#CTL_CaptureAction"/>
+                <attr name="iconBase" stringvalue="com/sdk/connector/gnome-monitor.png"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+            <file name="com-sdk-connector-animation-AnimationAction.instance">
+                <attr name="component" methodvalue="com.sdk.connector.animation.AnimationTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="com.sdk.connector.animation.Bundle#CTL_AnimationAction"/>
+                <attr name="iconBase" stringvalue="com/sdk/connector/animation/flash.png"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+            <file name="com-sdk-connector-chart-ChartAction.instance">
+                <attr name="component" methodvalue="com.sdk.connector.chart.ChartTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="com.sdk.connector.chart.Bundle#CTL_ChartAction"/>
+                <attr name="iconBase" stringvalue="com/sdk/connector/chart/xfce-office.png"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+            <file name="com-sdk-connector-db-DatabaseAction.instance">
+                <attr name="component" methodvalue="com.sdk.connector.db.DatabaseTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="com.sdk.connector.db.Bundle#CTL_DatabaseAction"/>
+                <attr name="iconBase" stringvalue="com/sdk/connector/db/database.png"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+            <file name="com-sdk-connector-settings-SettingsAction.instance">
+                <attr name="component" methodvalue="com.sdk.connector.settings.SettingsTopComponent.findInstance"/>
+                <attr name="displayName" bundlevalue="com.sdk.connector.settings.Bundle#CTL_SettingsAction"/>
+                <attr name="iconBase" stringvalue="com/sdk/connector/settings/gnome-settings.png"/>
+                <attr name="instanceCreate" methodvalue="org.openide.windows.TopComponent.openAction"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="AnimationAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/com-sdk-connector-animation-AnimationAction.instance"/>
+            </file>
+            <file name="CaptureAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/com-sdk-connector-CaptureAction.instance"/>
+            </file>
+            <file name="ChartAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/com-sdk-connector-chart-ChartAction.instance"/>
+            </file>
+            <file name="DatabaseAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/com-sdk-connector-db-DatabaseAction.instance"/>
+            </file>
+            <file name="SettingsAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/com-sdk-connector-settings-SettingsAction.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="AnimationTopComponent.settings" url="AnimationTopComponentSettings.xml"/>
+            <file name="CaptureTopComponent.settings" url="CaptureTopComponentSettings.xml"/>
+            <file name="ChartTopComponent.settings" url="ChartTopComponentSettings.xml"/>
+            <file name="DatabaseTopComponent.settings" url="DatabaseTopComponentSettings.xml"/>
+            <file name="SettingsTopComponent.settings" url="SettingsTopComponentSettings.xml"/>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="AnimationTopComponent.wstcref" url="AnimationTopComponentWstcref.xml"/>
+                <file name="ChartTopComponent.wstcref" url="ChartTopComponentWstcref.xml"/>
+                <file name="DatabaseTopComponent.wstcref" url="DatabaseTopComponentWstcref.xml"/>
+                <file name="SettingsTopComponent.wstcref" url="SettingsTopComponentWstcref.xml"/>
+            </folder>
+            <folder name="output">
+                <file name="CaptureTopComponent.wstcref" url="CaptureTopComponentWstcref.xml"/>
+              
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

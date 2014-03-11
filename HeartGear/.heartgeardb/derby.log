@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 28 22:53:09 BRT 2013:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instância a816c00e-0140-c7c6-3150-ffffbda8febd
+no diretório de banco de dados E:\netbeans\Biomind\HeartGear\.heartgeardb\HEARTGEARDB 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b17
+user.dir=E:\netbeans\Biomind\HeartGear
+os.name=Windows 8
+os.arch=amd64
+os.version=6.2
+derby.system.home=E:\netbeans\Biomind\HeartGear\.heartgeardb
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''

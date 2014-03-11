@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.biomind.tools
+OpenIDE-Module-Install: org/biomind/tools/Installer.class
+OpenIDE-Module-Layer: org/biomind/tools/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/biomind/tools/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

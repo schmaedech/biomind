@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu_hidden">
+        <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+        <folder name="Edit">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="200"/>
+            <file name="Separator1.instance" url="Separator1_2.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="900"/>
+            </file>
+            <file name="Separator2.instance" url="Separator2_2.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1500"/>
+            </file>
+            <file name="org-openide-actions-CopyAction.shadow" url="org-openide-actions-CopyAction_1.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-CopyAction.instance"/>
+                <attr name="position" intvalue="1100"/>
+            </file>
+            <file name="org-openide-actions-CutAction.shadow" url="org-openide-actions-CutAction_1.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-CutAction.instance"/>
+                <attr name="position" intvalue="1000"/>
+            </file>
+            <file name="org-openide-actions-DeleteAction.shadow" url="org-openide-actions-DeleteAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-DeleteAction.instance"/>
+                <attr name="position" intvalue="1400"/>
+            </file>
+            <file name="org-openide-actions-FindAction.shadow" url="org-openide-actions-FindAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-FindAction.instance"/>
+                <attr name="position" intvalue="2000"/>
+            </file>
+            <file name="org-openide-actions-PasteAction.shadow" url="org-openide-actions-PasteAction_1.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-PasteAction.instance"/>
+                <attr name="position" intvalue="1200"/>
+            </file>
+            <file name="org-openide-actions-RedoAction.shadow" url="org-openide-actions-RedoAction_1.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-RedoAction.instance"/>
+                <attr name="position" intvalue="205"/>
+            </file>
+            <file name="org-openide-actions-ReplaceAction.shadow" url="org-openide-actions-ReplaceAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-ReplaceAction.instance"/>
+                <attr name="position" intvalue="2100"/>
+            </file>
+            <file name="org-openide-actions-UndoAction.shadow" url="org-openide-actions-UndoAction_1.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-UndoAction.instance"/>
+                <attr name="position" intvalue="200"/>
+            </file>
+        </folder>
+        <folder name="File">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="100"/>
+            <file name="Separator2.instance" url="Separator2.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1400"/>
+            </file>
+            <file name="Separator3.instance" url="Separator3.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1800"/>
+            </file>
+            <file name="Separator4.instance" url="Separator4.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="2500"/>
+            </file>
+            <file name="org-netbeans-core-actions-SystemExit.shadow" url="org-netbeans-core-actions-SystemExit.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-netbeans-core-actions-SystemExit.instance"/>
+                <attr name="position" intvalue="2600"/>
+            </file>
+            <file name="org-netbeans-modules-print-action-PageSetupAction.shadow" url="org-netbeans-modules-print-action-PageSetupAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/File/org-netbeans-modules-print-action-PageSetupAction.instance"/>
+                <attr name="position" intvalue="2100"/>
+            </file>
+            <file name="org-netbeans-modules-print-action-PrintAction.shadow" url="org-netbeans-modules-print-action-PrintAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/File/org-netbeans-modules-print-action-PrintAction.instance"/>
+                <attr name="position" intvalue="2200"/>
+            </file>
+            <file name="org-openide-actions-SaveAction.shadow" url="org-openide-actions-SaveAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-openide-actions-SaveAction.instance"/>
+                <attr name="position" intvalue="1500"/>
+            </file>
+            <file name="org-openide-actions-SaveAllAction.shadow" url="org-openide-actions-SaveAllAction_1.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-openide-actions-SaveAllAction.instance"/>
+                <attr name="position" intvalue="1700"/>
+            </file>
+            <file name="org-openide-actions-SaveAsAction.shadow" url="org-openide-actions-SaveAsAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-openide-actions-SaveAsAction.instance"/>
+                <attr name="position" intvalue="1600"/>
+            </file>
+        </folder>
+        <folder name="GoTo">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="400"/>
+            <file name="SeparatorBeforeGoToLine.instance" url="SeparatorBeforeGoToLine.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1700"/>
+            </file>
+            <file name="core-windows-SeparatorAfterRecentList.instance" url="core-windows-SeparatorAfterRecentList.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="700"/>
+            </file>
+            <file name="org-netbeans-core-windows-actions-RecentViewListAction.shadow" url="org-netbeans-core-windows-actions-RecentViewListAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-RecentViewListAction.instance"/>
+                <attr name="position" intvalue="600"/>
+            </file>
+            <file name="org-netbeans-modules-favorites-SelectInFavorites.shadow" url="org-netbeans-modules-favorites-SelectInFavorites.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/SelectDocumentNode/org-netbeans-modules-favorites-Select.instance"/>
+                <attr name="position" intvalue="2800"/>
+            </file>
+            <file name="org-openide-actions-GotoAction.shadow" url="org-openide-actions-GotoAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-GotoAction.instance"/>
+                <attr name="position" intvalue="1800"/>
+            </file>
+        </folder>
+        <folder name="Help">
+            <attr name="HelpShortcuts\SystemFileSystem.localizingBundle" stringvalue="org.netbeans.modules.javahelp.resources.Bundle"/>
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="1300"/>
+            <file name="Separator1.instance" url="Separator1_1.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="500"/>
+            </file>
+            <file name="master-help.xml" url="master-help.xml">
+                <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.modules.javahelp.resources.Bundle"/>
+            </file>
+            <file name="org-netbeans-core-actions-AboutAction.shadow" url="org-netbeans-core-actions-AboutAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Help/org-netbeans-core-actions-AboutAction.instance"/>
+                <attr name="position" intvalue="1500"/>
+            </file>
+            <file name="org-netbeans-modules-autoupdate-ui-actions-CheckForUpdatesAction.shadow" url="org-netbeans-modules-autoupdate-ui-actions-CheckForUpdatesAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-netbeans-modules-autoupdate-ui-actions-CheckForUpdatesAction.instance"/>
+                <attr name="position" intvalue="1300"/>
+            </file>
+        </folder>
+        <folder name="Tools">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="1000"/>
+            <file name="Separator1.instance" url="Separator1_3.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="200"/>
+            </file>
+            <file name="Separator2.instance" url="Separator2_3.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1300"/>
+            </file>
+            <file name="Separator3.instance" url="Separator3_3.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1500"/>
+            </file>
+            <file name="org-netbeans-modules-autoupdate-ui-actions-PluginManagerAction.shadow" url="org-netbeans-modules-autoupdate-ui-actions-PluginManagerAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-netbeans-modules-autoupdate-ui-actions-PluginManagerAction.instance"/>
+                <attr name="position" intvalue="1400"/>
+            </file>
+            <file name="org-netbeans-modules-favorites-templates-TemplatesAction.shadow" url="org-netbeans-modules-favorites-templates-TemplatesAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-netbeans-modules-favorites-templates-TemplatesAction.instance"/>
+                <attr name="position" intvalue="1000"/>
+            </file>
+            <file name="org-netbeans-modules-options-OptionsWindowAction.shadow" url="org-netbeans-modules-options-OptionsWindowAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-modules-options-OptionsWindowAction.instance"/>
+                <attr name="position" intvalue="1700"/>
+            </file>
+            <file name="org-openide-actions-ToolsAction.shadow" url="org-openide-actions-ToolsAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-openide-actions-ToolsAction.instance"/>
+                <attr name="position" intvalue="100"/>
+            </file>
+        </folder>
+        <folder name="View">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="300"/>
+            <file name="Separator1.instance" url="Separator1.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="300"/>
+            </file>
+            <file name="Separator2.instance" url="Separator2_1.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="600"/>
+            </file>
+            <file name="Separator3.instance" url="Separator3_2.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="1100"/>
+            </file>
+            <file name="ToggleFullScreenAction.shadow" url="ToggleFullScreenAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-ToggleFullScreenAction.instance"/>
+                <attr name="position" intvalue="1200"/>
+            </file>
+            <file name="org-netbeans-core-actions-HTMLViewAction.shadow" url="org-netbeans-core-actions-HTMLViewAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/View/org-netbeans-core-actions-HTMLViewAction.instance"/>
+                <attr name="position" intvalue="400"/>
+            </file>
+            <file name="org-netbeans-core-actions-LogAction.shadow" url="org-netbeans-core-actions-LogAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/View/org-netbeans-core-actions-LogAction.instance"/>
+                <attr name="position" intvalue="500"/>
+            </file>
+            <file name="org-netbeans-core-multiview-EditorsAction.instance" url="org-netbeans-core-multiview-EditorsAction.instance">
+                <attr name="misplaced.action.allowed" boolvalue="true"/>
+                <attr name="position" intvalue="100"/>
+            </file>
+            <file name="org-netbeans-core-windows-actions-ToolbarsListAction.instance" url="org-netbeans-core-windows-actions-ToolbarsListAction.instance">
+                <attr name="misplaced.action.allowed" boolvalue="true"/>
+                <attr name="position" intvalue="700"/>
+            </file>
+        </folder>
+        <folder name="Window">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.windows.resources.Bundle"/>
+            <attr name="position" intvalue="1200"/>
+            <file name="CloneDocumentAction.shadow" url="CloneDocumentAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-CloneDocumentAction.instance"/>
+                <attr name="position" intvalue="2500"/>
+            </file>
+            <file name="CloseAllButThisAction.shadow" url="CloseAllButThisAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-CloseAllButThisAction.instance"/>
+                <attr name="position" intvalue="2700"/>
+            </file>
+            <file name="CloseAllDocumentsAction.shadow" url="CloseAllDocumentsAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-CloseAllDocumentsAction.instance"/>
+                <attr name="position" intvalue="2600"/>
+            </file>
+            <file name="CloseWindowAction.shadow" url="CloseWindowAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-CloseWindowAction.instance"/>
+                <attr name="position" intvalue="2100"/>
+            </file>
+            <file name="DocumentsAction.shadow" url="DocumentsAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-DocumentsAction.instance"/>
+                <attr name="position" intvalue="2800"/>
+            </file>
+            <file name="MaximizeWindowAction.shadow" url="MaximizeWindowAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-MaximizeWindowAction.instance"/>
+                <attr name="position" intvalue="2200"/>
+            </file>
+            <folder name="Output">
+                <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.io.ui.Bundle"/>
+                <attr name="position" intvalue="1200"/>
+                <file name="org-netbeans-core-io-ui-IOWindowAction.shadow" url="org-netbeans-core-io-ui-IOWindowAction.shadow">
+                    <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-io-ui-IOWindowAction.instance"/>
+                    <attr name="position" intvalue="100"/>
+                </file>
+            </folder>
+            <file name="ProgressListAction.shadow" url="ProgressListAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-modules-progress-ui-ProgressListAction.instance"/>
+                <attr name="position" intvalue="1900"/>
+            </file>
+            <file name="Separator3.instance" url="Separator3_1.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="2000"/>
+            </file>
+            <file name="Separator4.instance" url="Separator4_1.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="2400"/>
+            </file>
+            <file name="Separator5.instance" url="Separator5.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="2900"/>
+            </file>
+            <file name="SwitchToRecentDocumentAction.shadow" url="SwitchToRecentDocumentAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-SwitchToRecentDocumentAction.instance"/>
+                <attr name="position" intvalue="1800"/>
+            </file>
+            <file name="ViewFavoritesTabAction.shadow" url="ViewFavoritesTabAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-modules-favorites-View.instance"/>
+                <attr name="position" intvalue="350"/>
+            </file>
+            <file name="org-netbeans-core-windows-actions-GlobalPropertiesAction.shadow" url="org-netbeans-core-windows-actions-GlobalPropertiesAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-GlobalPropertiesAction.instance"/>
+                <attr name="position" intvalue="800"/>
+            </file>
+            <file name="org-netbeans-core-windows-actions-ResetWindowsAction.shadow" url="org-netbeans-core-windows-actions-ResetWindowsAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-ResetWindowsAction.instance"/>
+                <attr name="position" intvalue="3000"/>
+            </file>
+            <file name="org-netbeans-core-windows-actions-UndockAction.shadow" url="org-netbeans-core-windows-actions-UndockAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-core-windows-actions-UndockWindowAction.instance"/>
+                <attr name="position" intvalue="2300"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Toolbars_hidden">
+        <attr name="SystemFileSystem.icon" urlvalue="nbresloc:/org/netbeans/core/resources/toolbarsOption.gif"/>
+        <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+        <attr name="recognizeXML" boolvalue="true"/>
+        <folder name="Clipboard">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="200"/>
+            <file name="org-openide-actions-CopyAction.shadow" url="org-openide-actions-CopyAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-CopyAction.instance"/>
+                <attr name="position" intvalue="200"/>
+            </file>
+            <file name="org-openide-actions-CutAction.shadow" url="org-openide-actions-CutAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-CutAction.instance"/>
+                <attr name="position" intvalue="100"/>
+            </file>
+            <file name="org-openide-actions-PasteAction.shadow" url="org-openide-actions-PasteAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-PasteAction.instance"/>
+                <attr name="position" intvalue="300"/>
+            </file>
+        </folder>
+        <folder name="File">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="100"/>
+            <file name="org-openide-actions-SaveAllAction.shadow" url="org-openide-actions-SaveAllAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-openide-actions-SaveAllAction.instance"/>
+                <attr name="position" intvalue="400"/>
+            </file>
+        </folder>
+        <folder name="Memory">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="600"/>
+            <file name="org-netbeans-modules-profiler-actions-SelfSamplerAction.shadow" url="org-netbeans-modules-profiler-actions-SelfSamplerAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Profile/org-netbeans-modules-profiler-actions-SelfSamplerAction.instance"/>
+                <attr name="position" intvalue="2000"/>
+            </file>
+            <file name="org-openide-actions-GarbageCollectAction.shadow" url="org-openide-actions-GarbageCollectAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-openide-actions-GarbageCollectAction.instance"/>
+                <attr name="position" intvalue="100"/>
+            </file>
+        </folder>
+        <file name="Standard.xml" url="Standard.xml">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="800"/>
+        </file>
+        <folder name="UndoRedo">
+            <attr name="SystemFileSystem.localizingBundle" stringvalue="org.netbeans.core.ui.resources.Bundle"/>
+            <attr name="position" intvalue="300"/>
+            <file name="org-openide-actions-RedoAction.shadow" url="org-openide-actions-RedoAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-RedoAction.instance"/>
+                <attr name="position" intvalue="500"/>
+            </file>
+            <file name="org-openide-actions-UndoAction.shadow" url="org-openide-actions-UndoAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Edit/org-openide-actions-UndoAction.instance"/>
+                <attr name="position" intvalue="400"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

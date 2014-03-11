@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.derby
+OpenIDE-Module-Localizing-Bundle: org/derby/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
