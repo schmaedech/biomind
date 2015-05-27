@@ -83,7 +83,7 @@ import org.jfree.data.time.RegularTimePeriod;
 import org.jfree.data.time.TimeSeries;
 import org.jfree.data.time.TimeSeriesCollection;
 import org.jfree.ui.TextAnchor;
-import softvfc.com.sdk.connector.Protocol;
+import softvfc.com.sdk.Protocol;
 
 /**
  *

@@ -79,7 +79,7 @@ import org.jfree.data.xy.XYSeriesCollection;
 import org.jfree.ui.Layer;
 import org.jfree.ui.RectangleAnchor;
 import org.jfree.ui.TextAnchor;
-import softvfc.com.sdk.connector.Protocol;
+import softvfc.com.sdk.Protocol;
 
 
  

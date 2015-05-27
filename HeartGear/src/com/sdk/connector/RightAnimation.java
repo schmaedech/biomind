@@ -42,8 +42,8 @@
  */
 package com.sdk.connector;
 
-import java.awt.Color;
-import softvfc.com.sdk.connector.Protocol;
+import java.awt.Color; 
+import softvfc.com.sdk.Protocol;
 
 /**
  *

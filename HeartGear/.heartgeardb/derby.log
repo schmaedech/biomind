@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Wed Aug 28 22:53:09 BRT 2013:
- Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instância a816c00e-0140-c7c6-3150-ffffbda8febd
-no diretório de banco de dados E:\netbeans\Biomind\HeartGear\.heartgeardb\HEARTGEARDB 
-
+Wed May 27 19:43:54 BRT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-014d-978b-d9e3-000013578053 
+on database directory /home/diego/Documents/Biomind/HeartGear/.heartgeardb/HEARTGEARDB with class loader ModuleCL@4127bf65[org.derby] 
+Loaded from jar:file:/home/diego/Documents/Biomind/build/cluster/modules/ext/derby.jar!/
 java.vendor=Oracle Corporation
-java.runtime.version=1.7.0_25-b17
-user.dir=E:\netbeans\Biomind\HeartGear
-os.name=Windows 8
+java.runtime.version=1.8.0_45-b14
+user.dir=/home/diego/Documents/Biomind/HeartGear
+os.name=Linux
 os.arch=amd64
-os.version=6.2
-derby.system.home=E:\netbeans\Biomind\HeartGear\.heartgeardb
-Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+os.version=3.13.0-52-generic
+derby.system.home=/home/diego/Documents/Biomind/HeartGear/.heartgeardb
+Database Class Loader started - derby.database.classpath=''

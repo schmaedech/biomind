@@ -89,7 +89,7 @@ public class About extends javax.swing.JPanel {
         g2d.draw(lin);
         Dimension d = getSize();
 
-        g2d.drawImage(new javax.swing.ImageIcon(getClass().getResource("/com/sdk/connector/resources/splash-biomind.png")).getImage(), 0, 0,d.width,d.height, null);
+        g2d.drawImage(new javax.swing.ImageIcon(getClass().getResource("/com/sdk/connector/resources/splash.png")).getImage(), 0, 0,d.width,d.height, null);
         setOpaque( false );
         super.paintComponent( g );
         setOpaque( true );

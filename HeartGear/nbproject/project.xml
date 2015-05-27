@@ -23,6 +23,14 @@
                     </run-dependency>
                 </dependency>
                 <dependency>
+                    <code-name-base>org.netbeans.libs.junit4</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <specification-version>1.14</specification-version>
+                    </run-dependency>
+                </dependency>
+                <dependency>
                     <code-name-base>org.netbeans.modules.settings</code-name-base>
                     <build-prerequisite/>
                     <compile-dependency/>
@@ -73,16 +81,24 @@
                 <package>com.sdk.connector.settings</package>
             </public-packages>
             <class-path-extension>
-                <runtime-relative-path>ext/SoftVFC-API.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/SoftVFC-API.jar</binary-origin>
-            </class-path-extension>
-            <class-path-extension>
                 <runtime-relative-path>ext/swingx-core-1.6.2.jar</runtime-relative-path>
                 <binary-origin>release/modules/ext/swingx-core-1.6.2.jar</binary-origin>
             </class-path-extension>
             <class-path-extension>
+                <runtime-relative-path>ext/SoftVFC-Protocol.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/SoftVFC-Protocol.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
                 <runtime-relative-path>ext/swingx-beaninfo-1.6.2.jar</runtime-relative-path>
                 <binary-origin>release/modules/ext/swingx-beaninfo-1.6.2.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/SoftVFC-BiomindSDK.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/SoftVFC-BiomindSDK.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/SoftVFC-PulseSDK.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/SoftVFC-PulseSDK.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>

@@ -36,8 +36,8 @@ import org.openide.windows.TopComponent;
 import org.openide.windows.WindowManager;
 import org.openide.util.ImageUtilities;
 import org.netbeans.api.settings.ConvertAsProperties;
-import softvfc.com.sdk.connector.Protocol;
-import softvfc.com.sdk.util.TableExporter;
+import softvfc.com.sdk.Protocol;
+
 
 /**
  * Top component which displays something.

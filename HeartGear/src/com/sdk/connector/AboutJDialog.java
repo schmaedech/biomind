@@ -56,7 +56,7 @@ public class AboutJDialog extends javax.swing.JDialog {
     public AboutJDialog(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
-        this.setIconImage(new javax.swing.ImageIcon(getClass().getResource("/com/sdk/connector/resources/splash-biomind16.png")).getImage());
+        this.setIconImage(new javax.swing.ImageIcon(getClass().getResource("/com/sdk/connector/resources/splash.png")).getImage());
         this.setLayout( new GridLayout(0,1));
         this.add(new About());
     }

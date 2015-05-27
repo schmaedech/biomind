@@ -72,7 +72,8 @@ import org.jfree.chart.title.TextTitle;
 import org.jfree.data.time.Millisecond;
 import org.jfree.data.time.TimeSeries;
 import org.jfree.data.time.TimeSeriesCollection;
-import softvfc.com.sdk.connector.Protocol;
+import softvfc.com.sdk.Protocol;
+
 
 /**
  *

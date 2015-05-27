@@ -55,7 +55,8 @@ import org.openide.windows.TopComponent;
 import org.openide.windows.WindowManager;
 import org.openide.util.ImageUtilities;
 import org.netbeans.api.settings.ConvertAsProperties;
-import softvfc.com.sdk.aquisitor.CaptureWaveHeart;
+ 
+ 
 
  
 /**
@@ -64,21 +65,18 @@ import softvfc.com.sdk.aquisitor.CaptureWaveHeart;
 @ConvertAsProperties(dtd = "-//com.sdk.connector//Capture//EN",
 autostore = false)
 public final class CaptureTopComponent extends TopComponent {
-
-    private CaptureWaveHeart cap = new CaptureWaveHeart();
+ 
     private HeartAnimation anim = new HeartAnimation();
     private static CaptureTopComponent instance;
     /** path to the icon used by the component and its open action */
     static final String ICON_PATH = "com/sdk/connector/gnome-monitor.png";
     private static final String PREFERRED_ID = "CaptureTopComponent";
     public CaptureTopComponent() {
-        initComponents();
-        initComponents();
+        initComponents(); 
         setName(NbBundle.getMessage(CaptureTopComponent.class, "CTL_CaptureTopComponent"));
         setToolTipText(NbBundle.getMessage(CaptureTopComponent.class, "HINT_CaptureTopComponent"));
         setIcon(ImageUtilities.loadImage(ICON_PATH, true));
-         
-       this.add(cap);
+          
 //        jPanel2.setLayout( new GridLayout(0,1) );
 //        jPanel2.add(anim);
 
@@ -117,11 +115,48 @@ public final class CaptureTopComponent extends TopComponent {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        jButton1 = new javax.swing.JButton();
+        jButton2 = new javax.swing.JButton();
+
         setOpaque(true);
         setLayout(new java.awt.GridLayout());
+
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/sdk/connector/resources/pulseLogo.png"))); // NOI18N
+        org.openide.awt.Mnemonics.setLocalizedText(jButton1, org.openide.util.NbBundle.getMessage(CaptureTopComponent.class, "CaptureTopComponent.jButton1.text")); // NOI18N
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+        add(jButton1);
+
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/sdk/connector/resources/softvfcLogo.png"))); // NOI18N
+        org.openide.awt.Mnemonics.setLocalizedText(jButton2, org.openide.util.NbBundle.getMessage(CaptureTopComponent.class, "CaptureTopComponent.jButton2.text")); // NOI18N
+        jButton2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton2ActionPerformed(evt);
+            }
+        });
+        add(jButton2);
     }// </editor-fold>//GEN-END:initComponents
 
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        this.removeAll();
+        this.add(new pulse.com.sdk.aquisitor.CaptureWaveHeart());
+        this.repaint();
+        this.revalidate();
+    }//GEN-LAST:event_jButton1ActionPerformed
+
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+        this.removeAll();
+        this.add(new softvfc.com.sdk.aquisitor.CaptureWaveHeart());
+         this.repaint();
+        this.revalidate();
+    }//GEN-LAST:event_jButton2ActionPerformed
+
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton jButton1;
+    private javax.swing.JButton jButton2;
     // End of variables declaration//GEN-END:variables
     /**
      * Gets default instance. Do not use directly: reserved for *.settings files only,
