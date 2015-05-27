@@ -1,14 +1,6 @@
  
 #Biomind HRV
-
-This is services for BioSCADA
-
-New features:
-
--Upload data.
-
--Visualize data.
-
+  
 
 <h3>What is Biomind?</h3>
 <p>Biomind is a software to measure heart rate from old Polar belts and 5.3 kHz belts. Biomind can be used with simple microphone placed near to the heart.</p>
