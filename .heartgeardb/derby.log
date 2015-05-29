@@ -1,4 +1,4 @@
-Wed May 27 19:40:10 BRT 2015 Thread[AWT-EventQueue-0,6,main] Cleanup action starting
+Fri May 29 15:14:03 BRT 2015 Thread[AWT-EventQueue-0,6,main] Cleanup action starting
 java.sql.SQLException: Database 'HEARTGEARDB' not found.
 	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
 	at org.apache.derby.impl.jdbc.Util.newEmbedSQLException(Unknown Source)
