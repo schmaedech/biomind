@@ -20,13 +20,13 @@
 </ul>
 
 <h3>Learn More</h3>
-<p>There is much more to learn about how to use Biomind! You can learn much more at the <a href="http://www.neuroacademia.org/" target="_blank">Biomind! documentation site</a> and on the<a href="https://bioscada.com.br" target="_blank"> BioSCADA! forums</a>.</p>
+<p>There is much more to learn about how to use Biomind! You can learn much more at the <a href="http://www.nossobit.com/" target="_blank">Biomind! documentation site</a> and on the<a href="https://bioscada.com.br" target="_blank"> BioSCADA website</a>.</p>
  
 ### BioSCADA - SCADA for Humans
 
 ## Open Source
 
-<a href="https://bioscada.com.br"><img src="https://bioscada.com.br/images/logo.png" align="left" hspace="10" vspace="6"></a>
+<a href="https://bioscada.com.br"><img src="https://bioscada.com.br/wp-content/uploads/2019/01/logo.png" align="left" hspace="10" vspace="6"></a>
 
 **BioSCADA** is a Open Source Human SCADA library for monitoring and analysis based on human data. **BioSCADA** helps you bring data to life using Apps and Gadgets. BioSCADAs emphasis on UX standards gives you the full capabilities of tecnologies without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven-storage approach to Data manipulation.
 Centralize psychophysiological data in a single location and measure yourself!
@@ -39,6 +39,6 @@ Want to learn more? [See webpage.](https://bioscada.com.br)
 Copyright:
 ---------------------
 * Copyright (C) 2010 - 2015 Laboratório de Educação Cerebral. All rights reserved.
-* [Credits](http://www.biomind.net/)
+* [Credits](http://www.bioscada.com.br/)
 * Distributed under the GNU General Public License version 2 or later
-* See [Licenses details](http://www.biomind.net/)
+* See [Licenses details](http://www.bioscada.com.br/)
