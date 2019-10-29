@@ -20,21 +20,21 @@
 </ul>
 
 <h3>Learn More</h3>
-<p>There is much more to learn about how to use Biomind! You can learn much more at the <a href="http://www.neuroacademia.org/" target="_blank">Biomind! documentation site</a> and on the<a href="https://bioscada.me" target="_blank"> BioSCADA! forums</a>.</p>
+<p>There is much more to learn about how to use Biomind! You can learn much more at the <a href="http://www.neuroacademia.org/" target="_blank">Biomind! documentation site</a> and on the<a href="https://bioscada.com.br" target="_blank"> BioSCADA! forums</a>.</p>
  
 ### BioSCADA - SCADA for Humans
 
 ## Open Source
 
-<a href="https://bioscada.me"><img src="https://bioscada.me/images/logo.png" align="left" hspace="10" vspace="6"></a>
+<a href="https://bioscada.com.br"><img src="https://bioscada.com.br/images/logo.png" align="left" hspace="10" vspace="6"></a>
 
 **BioSCADA** is a Open Source Human SCADA library for monitoring and analysis based on human data. **BioSCADA** helps you bring data to life using Apps and Gadgets. BioSCADAs emphasis on UX standards gives you the full capabilities of tecnologies without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven-storage approach to Data manipulation.
 Centralize psychophysiological data in a single location and measure yourself!
 
 
-Want to learn more? [See webpage.](https://bioscada.me)
+Want to learn more? [See webpage.](https://bioscada.com.br)
  
-<a href="https://bioscada.me/index.php/labs/hrv/biomind"> Download </a>.
+<a href="https://bioscada.com.br/index.php/labs/hrv/biomind"> Download </a>.
 
 Copyright:
 ---------------------
